@@ -1,0 +1,86 @@
+body {
+  font-family: helvetica;
+  width: 100%;
+  margin: 25px auto;
+  line-height: 1.4em;
+  background-color: white;
+}
+
+section {
+  margin: 25px 0;
+  margin-left: 45px;
+  max-width: 60%;
+}
+
+img {
+  max-width: 100%;
+}
+
+p {
+  margin: 10px 0;
+}
+
+h1{
+  font-family: 'Suez One', serif;
+  color: mediumvioletred;
+  font-size: 3em;
+  padding-bottom: 40px;
+  clear: left;
+  background-color: white;
+  padding: 3%;
+  width: 100%;
+}
+
+.titel{
+  font-family: 'Suez One', serif;
+}
+
+h2 {
+  margin: 25px 0;
+}
+
+h3 {
+  display: inline;
+}
+
+a{
+  text-decoration: none;
+  color: mediumvioletred;
+  font-size: 1.2em;
+  font-family: 'Rubik', sans-serif;
+}
+
+nav {
+  background-color: mediumvioletred;
+  padding: 3%;
+  width: 100%;
+  word-spacing: 60px;
+  margin-left: auto;
+}
+
+nav a {
+  display: inline-block;
+  margin-right: 5px;
+  color: white;
+  font-family: 'Rubik', sans-serif;
+  font-size: 1.3em;
+}
+
+a:hover{
+  color: lightgray;
+}
+
+.backToHomepage{
+  margin-top: 50px;
+}
+
+.categorieTitel{
+  font-family: 'Suez One', serif;
+  font-size: 20px;
+  color: mediumvioletred;
+}
+
+.itemTitel{
+  color: mediumvioletred;
+  font-size: 20px;
+}

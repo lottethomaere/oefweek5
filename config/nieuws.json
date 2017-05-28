@@ -1,0 +1,35 @@
+{
+    "nieuws":
+    [
+        {
+            "titel": "ADVIES VAN DE TANDARTS: zo bescherm je je witte tanden",
+            "id": 212,
+            "datum": "18/05/2017 • 22:45",
+            "categorieen": ["Beauty","Fashion"],
+            "samenvatting": "Een glimlach is een van de mooiste dingen aan een persoon. Omdat het belangrijk is dat die er verzorgd uitziet, moeten we onze tanden goed verzorgen.",
+            "body":"<p>Een glimlach is een van de mooiste dingen aan een persoon. Omdat het belangrijk is dat die er verzorgd uitziet, moeten we onze tanden goed verzorgen. Onlangs zagen we het fenomeen ‘tanderosie’ verschijnen en besloten we om eens aan de tandarts te vragen wat dat juist is én of we er iets aan kunnen doen.</p>",
+            "afbeeldingl": "1844572.jpg",
+            "afbeeldings": "1844572-1.jpg"
+        },
+        {
+            "titel": "RECEPT: muesli met chocolade en hazelnoot",
+            "id": 210,
+            "datum": "19/05/2017 • 08:43",
+            "categorieen": ["Healthy","Living"],
+            "samenvatting": "Jawel, je leest het goed, vandaag mogen we genieten van chocolade! Zie je wel, een gezonde levensstijl creëren valt best mee, toch? Het vijfde ontbijt bestaat uit knapperige muesli. Dat gaat zo hard smaken! ",
+            "body": "<p>Jawel, je leest het goed, vandaag mogen we genieten van chocolade! Zie je wel, een gezonde levensstijl creëren valt best mee, toch? Het vijfde ontbijt bestaat uit knapperige muesli. Dat gaat zo hard smaken!</p><ul>Deze ingrediënten heb je nodig voor 1 persoon:</ul><li>40 gram havervlokken</li><li>1 koffielepel gehakte hazelnoten</li><li>1 appel</li><li>1 banaan</li><li>100 milliliter magere melk</li><li>1 koffielepel geraspte chocolade</li><p>1. Meng de havervlokken met de noten</p><p>2. Snij de appel in blokjes en voeg ze toe aan de havervlokken en de noten</p><p>3. Pureer de banaan met de melk en schenk het over muesli</p><p>4. Bestrooi alles met de geraspte chocolade</p><p>Wow! Zonder dat we het goed en wel beseffen, hebben wij onze eigen muesli gemaakt. We rock!</p>",
+            "afbeeldingl": "1777940.jpg",
+            "afbeeldings": "1777940-1.jpg"
+        },
+        {
+            "titel": "WAUW: in dit onderwaterhotel slaap je tussen de vissen",
+            "id": 198,
+            "datum": "19/05/2017 • 06:06",
+            "categorieen": ["Beauty","Traveling"],
+            "samenvatting": "Op zoek naar een bijzondere vakantiebestemming? Misschien past deze wel binnen je interesses. In Afrika kan je namelijk tussen de vissen slapen, in een hotelkamer onder water. Zou jij durven?",
+            "body": "<p>Op zoek naar een bijzondere vakantiebestemming? Misschien past deze wel binnen je interesses. In Afrika kan je namelijk tussen de vissen slapen, in een hotelkamer onder water. Zou jij durven?</p><p>De onderwaterkamer is gelegen in het Mantra Resort, op het eiland Pemba, vlak naast Tanzania, en werd ontworpen door de Zweedse designer Mikael Genberg, die ook de allereerste onderwaterhotelkamer in Zweden bouwde.</p><p>Jij, de zee en de vissen. De kamer, met bijna 360°-zicht op een nabijgelegen koraalrif, bevindt zich vier meter onder water. Op zeeniveau ligt er een prachtig dek met lounge en badkamer waar je met een wijntje kan genieten van het weidse uitzicht of een adembenemende zonsondergang. Zonneklopper? Dan neem je plaats op het loungebed op het dakterras.</p>",
+            "afbeeldingl": "1839498.png",
+            "afbeeldings": "1839498-1.png"
+        }
+    ]
+}
